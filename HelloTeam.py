@@ -10,3 +10,10 @@ print('boom,交电费')
 
 print('我是一直小青蛙')
 
+
+
+
+
+
+
+print("Dong，Dong，Dong，你的快递")

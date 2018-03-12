@@ -9,3 +9,6 @@ while 1:
 print('boom,交电费')
 
 print("Dong，Dong，Dong，你的快递")
+
+
+print("睡着了")

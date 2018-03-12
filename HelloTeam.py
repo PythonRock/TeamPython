@@ -10,9 +10,7 @@ print('boom,交电费')
 
 None
 None
-None
-None
-None
+
 None
 
 

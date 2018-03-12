@@ -8,8 +8,22 @@ while 1:
 
 print('boom,交电费')
 
+None
+None
+
+None
+
+
+
+
 print('我是一直小青蛙')
 
+
+
+print("Dong，Dong，Dong，你的快递")
+
+
+print("睡着了")
 
 
 

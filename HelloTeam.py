@@ -8,4 +8,17 @@ while 1:
 
 print('boom,交电费')
 
+None
+None
+None
+None
+None
+None
+
+
+
+
+
+
+
 print("Dong，Dong，Dong，你的快递")

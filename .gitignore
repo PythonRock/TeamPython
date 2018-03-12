@@ -101,6 +101,10 @@ ENV/
 .mypy_cache/
 
 
-# 忽略 .idea
+
+# 忽略.diea文件
 .idea
+
+
+
 
